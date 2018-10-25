@@ -33,7 +33,7 @@ Objects
 * Pollution
 
 {% include annotated-image.html url=""
-max-width="200px" file="market-stalls.jpg" alt="Jekyll logo"
+max-width="200px" file="/images/market-stalls.jpg" alt="Jekyll logo"
 caption="This is the Jekyll logo." %}
 
 ![_config.yml]({{ site.baseurl }}/images/church-windows.jpg)
