@@ -1,6 +1,8 @@
-<div class="corners annotated-image col-sm">
-   <a href="{{ include.url }}">
-      <img src="{{ include.file }}" class="{{ include.img_class }}" alt="{{ include.alt }}"/>
-   </a>
-   <figcaption class="annotation"><p>{{ include.caption }}</p></figcaption>
+<div class="card" style="width: 18rem;">
+  <img src="{{ include.file }}" class="{{ include.img_class }}" alt="{{ include.alt }}"/>
+  <div class="card-body">
+    <h5 class="card-title">{{ include.cardtitle }}</h5>
+    <p class="card-text">{{ include.cardtext }}</p>
+    <a href="{{ include.url }}" class="btn btn-primary">{{ include.linktext }}</a>
+  </div>
 </div>
