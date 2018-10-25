@@ -32,4 +32,6 @@ Objects
 * Light 
 * Pollution
 
+{% include annotated-image.html image_id="market-stalls.jpg" %}
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
