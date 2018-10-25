@@ -19,7 +19,7 @@ title: Innovative Thinking and Collaborating
 * kabata ponds
 * permaculture
 
-## Local and Government initiatives
+## London Assembly initiatives
 
 [Civic Innovation Challenge](https://www.london.gov.uk/press-releases/mayoral/tech-firms-give-15k-to-tackle-londons-challenges)
 
