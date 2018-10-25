@@ -4,7 +4,6 @@ $border-radius: 5px;
 $border-width: 2px;
 $border-color: #dee2e6;
 $white: #ffffff;
-$theme-colors:;
 
 //
 // Border
@@ -22,10 +21,6 @@ $theme-colors:;
 .border-bottom-0 { border-bottom: 0 !important; }
 .border-left-0   { border-left: 0 !important; }
 
-@each $color, $value in $theme-colors {
-  .border-#{$color} {
-    border-color: $value !important;
-  }
 }
 
 .border-white {
