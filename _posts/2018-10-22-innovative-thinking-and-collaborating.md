@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innovative Thinking-and Collaborating
+title: Innovative Thinking and Collaborating
 ---
 
 ## Circles, spheres and loops
