@@ -6,7 +6,7 @@ title: Seeing the City
 ## Market
 
 Time and place
-11:00am on a Friday morning... 
+* 11:00am on a Friday morning... 
 * market starting to get busy 
 * stall holders setting up
 * Sunlight, colour, building noise
