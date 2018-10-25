@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Innovative Thinking and Collaborating
 ---
 
