@@ -2,7 +2,6 @@
 Layout: post
 Title: Capturing the City
 ---
-Week 3
 
 ## Museum of london visit
 
