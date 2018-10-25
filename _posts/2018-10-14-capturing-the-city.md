@@ -1,5 +1,5 @@
 ---
-Layout: posts
+Layout: post
 Title: Capturing the City
 ---
 Week 3
