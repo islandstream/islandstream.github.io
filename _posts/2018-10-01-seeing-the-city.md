@@ -32,8 +32,6 @@ Objects
 * Light 
 * Pollution
 
-{% include annotated-image.html url=""
-max-width="200px" file="/images/market-stalls.jpg" alt="Jekyll logo"
-caption="This is the Jekyll logo." %}
+{% include annotated-image.html url="" max-width="400px" file="/images/market-stalls.jpg" alt="Jekyll logo" caption="Stall holders setting up their pitches" %}
 
 ![_config.yml]({{ site.baseurl }}/images/church-windows.jpg)
