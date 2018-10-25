@@ -12,7 +12,7 @@ Title: Capturing the City
 * Noise cancelling sound bars
 
 ## Koyaanisqotsi
-![koyaanisqotsi]({{ site.baseurl }}/images/koyaanisqotsi.png "an image title")
+![koyaanisqotsi]({{ site.baseurl }}/images/koyaanisqotsi.jpg "an image title")
 
 * Sound over city scapes
 
