@@ -36,4 +36,4 @@ Objects
 max-width="200px" file="market-stalls.jpg" alt="Jekyll logo"
 caption="This is the Jekyll logo." %}
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/church-windows.jpg)
