@@ -1,5 +1,7 @@
-{% if site.annotated-image %}
-<div class="bd-example">
-  <img data-src="holder.js/100px250" class="img-fluid" alt="100%x250" style="height: 250px; width: 100%; display: block;" src="images/{{ include.image_id }}"" data-holder-rendered="true">
+<div>
+   <a href="{{ include.url }}">
+   <img src="{{ include.file }}" style="max-width: {{ include.max-width }};"
+      alt="{{ include.alt }}"/>
+   </a>
+   <figcaption>{{ include.caption }}</figcaption>
 </div>
-{% endif %}
