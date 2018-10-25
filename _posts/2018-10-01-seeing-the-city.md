@@ -20,10 +20,10 @@ People
 * City students
 
 Objects
-Muli-functional street furniture
-* Market stalls gazebos providing weather protection, plot boundary, branding and colour
-* Windows letting in light and keeping out the rain
-* Lamp posts with signs on them and bike locks
+* Muli-functional street furniture
+ - Market stalls gazebos providing weather protection, plot boundary, branding and colour
+ - Windows letting in light and keeping out the rain
+ - Lamp posts with signs on them and bike locks
 * Pesonal devices
 * Shop equipment (tills, ovens)
 
