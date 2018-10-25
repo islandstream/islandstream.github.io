@@ -17,5 +17,6 @@ title: Innovative Thinking and Collaborating
 
 ## Futurice workshop
 
-![City Map]({{ site.baseurl }}/images/futurice-1.png "A day in the life of Ken")
-![Post up to pitch]({{ site.baseurl }}/images/futurice-2.png "Pitching the idea")
+![City Map]({{ site.baseurl }}/images/futurice-1.jpg "A day in the life of Ken")
+
+![Post up to pitch]({{ site.baseurl }}/images/futurice-2.jpg "Pitching the idea")
