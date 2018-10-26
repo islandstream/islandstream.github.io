@@ -5,7 +5,7 @@ title: Sketching
 
 Starting to think about sensors in the city, especially in terms of pollution. How can we make life in the city safer, cleaner and more human? As 'Living Sensors' we filter much of what we percieve to protect ourselves from information overload but as environmental sensors, absorbing and reacting to pollution such as sound, light and particulates, we have zero control. How can we better protect ourselves as we move about the crowded city?   
 
-{% include bootstrap-card-text-image-link.html file="/images/tunnel.jpg"  alt="Old tunnel" cardtitle="Cycle Tunnel" cardtext="Push to make Englands longest cycle tunnel" href="https://www.theguardian.com/uk-news/2018/jan/01/new-push-to-make-englands-longest-cycle-tunnel-a-reality" linktext="Yorkshire cycle tunnel planned" %}
+{% include bootstrap-card-text-image-link.html file="/images/tunnel.jpg"  alt="Old tunnel" cardtitle="Cycle Tunnel" cardtext="The campaign to make Englands longest cycle tunnel" href="https://www.theguardian.com/uk-news/2018/jan/01/new-push-to-make-englands-longest-cycle-tunnel-a-reality" linktext="Yorkshire cycle tunnel planned" %}
 
 * Repurposing old infrastructure for new purposes. uk city w/ tunnel where proposed to use for cyclists. []() 
 * [Londons derelict tube tunnel](https://www.dezeen.com/2015/02/05/london-underline-gensler-derelict-tube-tunnels-pedestrian-cycle-network-self-sustaining/)
