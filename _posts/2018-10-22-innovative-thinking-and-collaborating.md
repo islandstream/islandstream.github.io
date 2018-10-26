@@ -5,7 +5,7 @@ title: Innovative Thinking and Collaborating
 
 Circles spheres and loops are recurring themes in when resesearching smart, sustainable arcgricultural technologies.
 
-{% include bootstrap-card-text.html cardtext="Closed-loop urban, vertical farming" cardtext="* Reduced food miles
+{% include bootstrap-card-text.html cardtitle="Closed-loop urban, vertical farming" cardtext="* Reduced food miles
 * Fewer pesticides
 * Far less water
 * Far less land / deforestation
