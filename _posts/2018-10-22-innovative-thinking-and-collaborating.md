@@ -21,7 +21,7 @@ title: Innovative Thinking and Collaborating
 
 [Smarter London Together](https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/smarter-london-together)
 
-[Smarter London Together](https://www.london.gov.uk/what-we-do/environment/london-environment-strategy)
+[London environment Strategy](https://www.london.gov.uk/what-we-do/environment/london-environment-strategy)
 
 {% include bootstrap-card-text-image.html file="/images/futurice-1.jpg" alt="A day in the life of chung" cardtitle="Futurice workshop" cardtext="Chung cycles to work. He loves his bike but finds bike security a problem in the city. We mapped Chung's commute, his meetups and painpoints to identify opportunities for a new service" %}
 
