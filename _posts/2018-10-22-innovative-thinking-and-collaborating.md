@@ -1,6 +1,7 @@
 ---
 layout: post
-excerpt: Circles spheres and loops are recurring themes when resesearching smart, sustainable arcgricultural technologies.
+description: Circles spheres and loops are recurring themes when resesearching smart, sustainable arcgricultural technologies.
+excerpt: Squares and loops are recurring themes when resesearching smart, sustainable arcgricultural technologies.
 title: Innovative Thinking and Collaborating
 ---
 
