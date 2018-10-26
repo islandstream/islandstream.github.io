@@ -29,5 +29,7 @@ title: Innovative Thinking and Collaborating
 
 ## Futurice workshop
 
-![City Map]({{ site.baseurl }}/images/futurice-1.jpg "A day in the life of Ken")
-![Post up to pitch]({{ site.baseurl }}/images/futurice-2.jpg "Pitching the idea")
+{% include bootstrap-card-image.html file="/images/futurice-1.jpg" alt="A day in the life of Chung" cardtitle="Mapping Chung's commute, his meetups and painpoints" cardtext="Chung cycles to work. He loves his bike but finds bike security a problem in the city" %}
+
+{% include bootstrap-card-text-image.html file="/images/futurice-2.jpg" alt="Pitching the idea" cardtitle="Concept and Validation for Bike-Immobiliser" cardtext="The solution we developed was tailored for Chung, the persona we developed in the Futurice session. We considered what hardware would be needed to create an immobilisation device intergrated into the brake pads and wheel rim of the bike. The immobilisation device would be activated by voice recognition and possible finger print ID in the handlebars" %}
+
