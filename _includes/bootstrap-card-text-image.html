@@ -1,8 +1,7 @@
 <div class="card" style="{{ include.cardwidth }}">
-  <img src="{{ include.file }}" class="{{ include.css_img }}" alt="{{ include.alt }}" style="{{ include.image-style }}"/>
-  <div class="{{ include.css_cardbody }}">
-    <h5 class="{{ include.css_cardtitle }}">{{ include.cardtitle }}</h5>
-    <p class="{{ include.css_cardtext }}">{{ include.cardtext }}</p>
-    <a href="{{ include.url }}">{{ include.linktext }}</a>
+  <img src="{{ include.file }}" class="card-img-top" alt="{{ include.alt }}" style="style="width: 100%; display: block;""/>
+  <div class="card-body">
+    <h5 class="card-title">{{ include.cardtitle }}</h5>
+    <p class="card-text">{{ include.cardtext }}</p>
   </div>
 </div>
