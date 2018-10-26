@@ -3,7 +3,7 @@ layout: post
 title: Innovative Thinking and Collaborating
 ---
 
-{% include excerpt.html excerpt="Circles spheres and loops are recurring themes when resesearching smart, sustainable arcgricultural technologies." %}
+{% include excerpt.html excerpt="Circles spheres and loops are recurring themes when researching smart, sustainable arcgricultural technologies." %}
 
 {% include bootstrap-card-text.html cardtitle="Closed-loop urban, vertical farming" cardtext="Reduced food miles, fewer pesticides, 80% less water, 85% less land / deforestation, Job creation, improved air quality" %}
 
