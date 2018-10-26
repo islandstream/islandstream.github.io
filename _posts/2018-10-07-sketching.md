@@ -7,9 +7,14 @@ Starting to think about sensors in the city, especially in terms of pollution. H
 
 {% include bootstrap-card-text-image-link.html file="/images/tunnel.jpg"  alt="Old tunnel" cardtitle="Cycle Tunnel" cardtext="The campaign to make Englands longest cycle tunnel" href="https://www.theguardian.com/uk-news/2018/jan/01/new-push-to-make-englands-longest-cycle-tunnel-a-reality" linktext="Yorkshire cycle tunnel planned" %}
 
-* Repurposing old infrastructure for new purposes. uk city w/ tunnel where proposed to use for cyclists. []() 
-* [Londons derelict tube tunnel](https://www.dezeen.com/2015/02/05/london-underline-gensler-derelict-tube-tunnels-pedestrian-cycle-network-self-sustaining/)
-* Garden bridges; 
+include.file }}" class="card-img-top" alt="{{ include.alt }}" style="width: 100%; display: block;"/>
+  <div class="card-body">
+    <h5 class="card-title">{{ include.cardtitle }}</h5>
+    <p class="card-text">{{ include.cardtext }}</p>
+  </div>
+</div>
+{% include bootstrap-card-text-image.html file="/images/The-London-Underline-by-Gensler_dezeen_BN01.jpg"  alt="Old tunnel" cardtitle="Cycle the tube" cardtext="Reimagining londons derelict tube tunnel. * Repurposing old infrastructure for new purposes. uk city w/ tunnel where proposed to use for cyclists. 
+* Garden bridges" href="https://www.dezeen.com/2015/02/05/london-underline-gensler-derelict-tube-tunnels-pedestrian-cycle-network-self-sustaining/" linktext="Dezeen.com" %}
 
 {% include bootstrap-card-text-image-link.html file="/images/sensors-making-friends.jpg"  alt="Old tunnel" cardtitle="Investigating Environmental Sensing Technologies and Citizen Engagement" cardtext="'Practices of monitoring and sensing environments have migrated to everyday participatory applications, where users of smart phones and networked devices are able to engage with modes of environmental observation and data collection. Yet how effective are these practices of citizen sensing in not just providing “crowd-sourced” data sets, but also in giving rise to new modes of environmental awareness and practice?'" href="https://citizensense.net/" linktext="Citizen Sense" %}
 
