@@ -309,6 +309,12 @@ footer {
     flex: 1 1 auto;
     padding: 1.25rem;
 }
+.card-body-overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    bacground-color: rgba(255,255,255,0.75);
+}
 .card-title {
     margin-bottom: .75rem;
 }
