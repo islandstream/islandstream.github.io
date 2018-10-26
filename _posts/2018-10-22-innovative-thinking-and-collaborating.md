@@ -5,18 +5,17 @@ title: Innovative Thinking and Collaborating
 
 {% include excerpt.html excerpt="Circles spheres and loops are recurring themes when resesearching smart, sustainable arcgricultural technologies." %}
 
-{% include bootstrap-card-text.html cardtitle="Closed-loop urban, vertical farming" cardtext="* Reduced food miles
-* Fewer pesticides
-* Far less water
-* Far less land / deforestation
-* Job creation
-* Improved air quality" %}
+{% include bootstrap-card-text.html cardtitle="Closed-loop urban, vertical farming" cardtext="Reduced food miles, fewer pesticides, 80% less water, 85% less land / deforestation, Job creation, improved air quality" %}
 
-* [Circular Design Guide](https://www.circulardesignguide.com)
+{% include bootstrap-card-text.html cardtitle="Closed-loop urban, vertical farming" cardtext="Reduced food miles, fewer pesticides, 80% less water, 85% less land / deforestation, Job creation, improved air quality" %}
 
-* [Urban Farming](https://futurism.com/urban-farming-future-agriculture/amp/)
+{% include bootstrap-card-text-image-link.html file="/images/vertcalfarming1.jpg"  alt="Urban Farming" cardtitle="Vertical Farming" cardtext="High tech hydro/aeroponic systems" href="https://futurism.com/urban-farming-future-agriculture/amp/" linktext="Future of agriculture" %}
+
+{% include bootstrap-card-text-link.html cardtitle="Vertcal Urban Farming" href="https://futurism.com/urban-farming-future-agriculture/amp/" %}
+
 * kabata ponds
 * permaculture
+* [Circular Design Guide](https://www.circulardesignguide.com)
 
 ## London Assembly initiatives
 
