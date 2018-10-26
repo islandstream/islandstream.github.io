@@ -32,6 +32,11 @@ Objects
 * Light 
 * Pollution
 
-{% include annotated-image.html url="" max-width="400px" img_class="rounded" file="/images/market-stalls.jpg" alt="Jekyll logo" caption="Stall holders setting up their pitches" %}
+{% include bootstrap-card-text-image.html file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" cardtext="Some card text" %}
+
+{% include bootstrap-card-text.html cardtext="Some card text" %}
+
+{% include bootstrap-card-image.html
+file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" cardtext="Some card text" %}
 
 ![_config.yml]({{ site.baseurl }}/images/church-windows.jpg)
