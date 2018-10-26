@@ -7,12 +7,6 @@ Starting to think about sensors in the city, especially in terms of pollution. H
 
 {% include bootstrap-card-text-image-link.html file="/images/tunnel.jpg"  alt="Old tunnel" cardtitle="Cycle Tunnel" cardtext="The campaign to make Englands longest cycle tunnel" href="https://www.theguardian.com/uk-news/2018/jan/01/new-push-to-make-englands-longest-cycle-tunnel-a-reality" linktext="Yorkshire cycle tunnel planned" %}
 
-include.file }}" class="card-img-top" alt="{{ include.alt }}" style="width: 100%; display: block;"/>
-  <div class="card-body">
-    <h5 class="card-title">{{ include.cardtitle }}</h5>
-    <p class="card-text">{{ include.cardtext }}</p>
-  </div>
-</div>
 {% include bootstrap-card-text-image.html file="/images/The-London-Underline-by-Gensler_dezeen_BN01.jpg"  alt="Old tunnel" cardtitle="Cycle the tube" cardtext="Reimagining londons derelict tube tunnel. * Repurposing old infrastructure for new purposes. uk city w/ tunnel where proposed to use for cyclists. 
 * Garden bridges" href="https://www.dezeen.com/2015/02/05/london-underline-gensler-derelict-tube-tunnels-pedestrian-cycle-network-self-sustaining/" linktext="Dezeen.com" %}
 
