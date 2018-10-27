@@ -12,10 +12,12 @@ How do sound, light and time interplay? I looked at Walk the City, a series of w
 
 {% include bootstrap-card-text-image.html file="/images/ambient-noise-device.jpg" alt="Sketch of noise cancelling device" cardtitle="Noise cancelling device" cardtext="" %}
 
-## Koyaanisqotsi
 ![koyaanisqotsi]({{ site.baseurl }}/images/koyaanisqotsi.jpg "an image title")
 
 * Sound over city scapes
 
 ## Boyle Family - 1970's
 ![Boyle Family]({{ site.baseurl }}/images/boylefamilywork.png "boyle family")
+
+## Pavement Phonograph
+![Sketch of a phonograph sound funnel]({{ site.baseurl }}/images/sound-funnel.jpg "boyle family")
