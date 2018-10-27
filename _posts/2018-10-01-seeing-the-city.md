@@ -34,9 +34,8 @@ Objects
 
 {% include bootstrap-card-text-image.html file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" cardtext="Some card text" %}
 
-{% include bootstrap-card-text.html cardtext="Some card text" %}
-
 {% include bootstrap-card-image.html
-file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" cardtext="Some card text" %}
+file="/images/church-windows.jpg" alt="Photo of church at in Monmouth Lane" cardtitle="Monmouth market" %}
 
-![_config.yml]({{ site.baseurl }}/images/church-windows.jpg)
+{% include bootstrap-card-text-image.html file="/images/blog-design.jpg" alt="Sketch of a UI layout" cardtitle="Blog sketch" cardtext="Thinking about the layout and design for my blog" %}
+
