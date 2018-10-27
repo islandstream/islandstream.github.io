@@ -3,7 +3,7 @@ Layout: post
 Title: Capturing the City
 ---
 
-How do sound, light and time interplay? I looked at Walk the City, a series of walks and talk by Citizen sense @ Goldsmiths College, London. 
+How do sound, light and time interplay? I looked at Walk the City, a series of walks and talks by Citizen Sense @ Goldsmiths College, London. 
 
 ## Museum of London visit
 {% include bootstrap-card-text-image.html file="/images/Camera_obscura_box.jpg" alt="diagram of the camera obscura box" cardtitle="The camera obscura" cardtext="A natural phenomenon which transposes images through a pinhole" %}
@@ -12,12 +12,9 @@ How do sound, light and time interplay? I looked at Walk the City, a series of w
 
 {% include bootstrap-card-text-image.html file="/images/ambient-noise-device.jpg" alt="Sketch of noise cancelling device" cardtitle="Noise cancelling device" cardtext="" %}
 
-![koyaanisqotsi]({{ site.baseurl }}/images/koyaanisqotsi.jpg "an image title")
+{% include bootstrap-card-text-image.html file="/images/sound-funnel.jpg" alt="Sketch of a sound funnel" cardtitle="Soothing sounds in a busy city" cardtext="Sketch of a device which delivers soothing sounds in a busy city.. piped birdsong, crashing waves or babbling brook. You get the gist" %}
 
-* Sound over city scapes
+{% include bootstrap-card-text-image.html file="/images/koyaanisqotsi.jpg" alt="Traced font of Koyaanisquotsi" cardtitle="Koyaanisquotsi" cardtext="layering sound and image over dystopina cityscapes and images of humanity and it's impact on the planet" %}
 
-## Boyle Family - 1970's
-![Boyle Family]({{ site.baseurl }}/images/boylefamilywork.png "boyle family")
+{% include bootstrap-card-text-image.html file="/images/boylefamilywork.png" alt="Image of Boyle Family series" cardtitle="Boyle Family - 1960's - 1980's" cardtext="Thinking about people as living sensors brought to mind the work of the Boyle family, a group of collaborative artists who threw darts on a map and went to record, in exacting detail, 3D fibreglass and oilpaint casts of the ground surfaces they plotted" %}
 
-## Pavement Phonograph
-![Sketch of a phonograph sound funnel]({{ site.baseurl }}/images/sound-funnel.jpg "boyle family")
