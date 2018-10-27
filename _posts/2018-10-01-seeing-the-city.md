@@ -34,7 +34,7 @@ Objects
 * Light 
 * Pollution
 
-{% include bootstrap-card-text-image.html file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" cardtext="Some card text" %}
+{% include bootstrap-card-text-image.html file="/images/market-stalls.jpg" alt="Photo of Monmouth Market" cardtitle="Monmouth market" %}
 
 {% include bootstrap-card-image.html file="/images/church-windows.jpg" alt="Photo of church at in Monmouth Lane" cardtitle="Monmouth market" %}
 
