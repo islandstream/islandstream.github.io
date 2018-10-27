@@ -3,6 +3,8 @@ layout: post
 title: Seeing the City
 ---
 
+Observing parts of the city to identify opportunities for digital interactions and data points
+
 ## Market
 
 Time and place
