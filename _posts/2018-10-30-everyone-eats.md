@@ -1,20 +1,19 @@
-Everyone eats!
+---
+layout: post
+title: Everyone eats!
+---
 
 A key facet of a closed-loop, transparent food source would be that food production should be local 
-and accessible to the local population or a city or urban environment. 
+and accessible to the local population of a city or urban environment, where resource is scarce and/or in high demand. 
 
 This means bringing food production and the handling of food waste / recycling of products and 
 equipment into the bounds of the city. It also raises questions about who would be the best 
-guardians or providers of a system like this?
+custodians of a system like this.
 
-When a large part of the problem with the current system is created, propagated and maintained by 
-large, global, profit-focused companies who hide their wasteful habits, literally kick the can 
-down the road, it’s tempting to think about a new system being one that removes or disrupts some of 
-this power. 
+The current system is created, propagated and maintained by a broken and top-heavy, linear systems of food production, the smallest output of which is the food on our tables. Large, global, profit-focused companies can hide their wasteful habits in an inefficient chain of production, to get their product to market. In doing so they literally kick the can 
+down the road. I would like our solution to be one that removes or disrupts some of this power or at the very least offers a way to improve the inefficiencies of the current system. The problem I have with the latter approach is that we are layering on incongruencies and complexity onto buisness models which are driven by sector dominance and muscle power in which baseline profit are the primry drivers of invention, over sustainability and human dignity or well-being.
 
-A nice exercise might be to imagine introducing technology to a pre-industrial supply chain. 
-What things could be introduced to support growers and consumers, and only reintroducing the 
-market place the very last stage, when all other avenues for food distribution have been exhausted? 
+What if we started to imagine introducing technology to a pre-industrial supply chain. What things could be introduced to support growers and consumers, and only reintroducing the market place the very last stage, when all other avenues for food distribution have been exhausted? 
 
 How might the players in a devolved system be categorised?
 
