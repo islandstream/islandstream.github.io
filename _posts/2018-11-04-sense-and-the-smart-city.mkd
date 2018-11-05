@@ -3,7 +3,11 @@ layout: 1-col-post
 title: Sense and the smart city
 ---
 
-A solution for the people
+# A solution for the people
+
+## Guardians of Seed Libraries at Spitalfields City Farm
+
+![_config.yml]({{ site.baseurl }}/images/mindmap-guardians-of-connected-seeds.jpg)
 
 My questions:
 - How does produce get distributed so that it is not wasted? How could these systems be scaled up so that people are growing collaboratively, in a way that provides for the wider community and not just those that are directly envolved in the endeavour? 
