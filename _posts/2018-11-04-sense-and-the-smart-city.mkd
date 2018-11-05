@@ -1,0 +1,11 @@
+---
+layout: post
+title: Sense and the smart city
+---
+
+A solution for the people
+
+My questions:
+- How does produce get distributed so that it is not wasted? How could these systems be scaled up so that people are growing collaboratively, in a way that provides for the wider community and not just those that are directly envolved in the endeavour? 
+- This type of initiative is dependent on collaboration between a highly diverse and distinct set of experts. The home-growers and the technicians. Is there an opportunity to bridge this gap? Do you see vertical farming as having any place in a traditional soil based system of horticulture?
+- Could sensors be used to assist busy, people that have the ideology and money to spend on setting up growing spaces but not always the time?
