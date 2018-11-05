@@ -3,7 +3,7 @@ layout: 1-col-post
 title: A Sense of Place
 ---
 
-# Connections between growing and heritage in diverse communities
+Connections between growing and heritage in diverse communities
 
 ![_config.yml]({{ site.baseurl }}/images/mindmap-guardians-of-connected-seeds.jpg)
 
