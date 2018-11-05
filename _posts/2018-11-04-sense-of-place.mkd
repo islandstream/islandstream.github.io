@@ -1,11 +1,9 @@
 ---
 layout: 1-col-post
-title: Sense and the smart city
+title: A Sense of Place
 ---
 
-# A solution for the people
-
-## Guardians of Seed Libraries at Spitalfields City Farm
+# Connections between growing and heritage in diverse communities
 
 ![_config.yml]({{ site.baseurl }}/images/mindmap-guardians-of-connected-seeds.jpg)
 
