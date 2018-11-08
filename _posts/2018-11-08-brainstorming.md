@@ -9,8 +9,8 @@ community in South East London.
 
 Sketches yet to be uploaded
 
-*Hydroponic popup
-*Alert service for surplus crops
+* Hydroponic popup
+* Alert service for surplus crops
 *Alert system for shopkeepers and restaurants
 *Job creation: Caretakers of hydroponic systems
 *Modular systems including kabata fish pond
