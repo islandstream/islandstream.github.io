@@ -13,7 +13,7 @@ Sketches yet to be uploaded
 * Alert service for surplus crops
 * Alert system for shopkeepers and restaurants
 * Job creation: Caretakers of hydroponic systems
-* Modular systems including kabata fish pond
+* Modular systems including kabata fish pond ![_config.yml]({{ site.baseurl }}/images/fish.jpg)
 * Floating pontoon hydroponic system, cleaning the river water
 * Retrofitting old properties with black waste water purifiers for food production
 * Land registry service for finding land or buildings that can be repurposed for vertical farming units
