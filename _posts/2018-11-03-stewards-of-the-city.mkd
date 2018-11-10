@@ -31,4 +31,4 @@ HCI designers are trying re-appropriate the management of these resources…  to
 - Technical skills and data literacy required
 - www.connectedseed.org/connected-seeds-film 
 
-There’s a need for HCI to identify where the struggle is already taking place and design solutions to overcome it.
+<strong>There’s a need for HCI to identify where the struggle is already taking place and design solutions to overcome it.</strong>
