@@ -5,7 +5,7 @@ title: A Sense of Place
 
 ## Connections between growing and heritage in diverse communities
 
-I contacted Sara Heitlinger about her work on Connected Seeds to ask her more about the growers and volunteers in her study. The following mind map on was based on their accounts fas written in the (Connected Seeds Book)[http://www.connectedseeds.org/wp-content/uploads/2017/02/Connected-Seeds-Book_Low-res.pdf relating to food and Heritage. ]
+I contacted Sara Heitlinger about her work on Connected Seeds to ask her more about the growers and volunteers in her study. The following mind map on was based on their accounts as written in the (Connected Seeds Book)[http://www.connectedseeds.org/wp-content/uploads/2017/02/Connected-Seeds-Book_Low-res.pdf relating to food and Heritage. ]
 
 ![_config.yml]({{ site.baseurl }}/images/mindmap-guardians-of-connected-seeds.jpg)
 
