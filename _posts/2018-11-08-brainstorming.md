@@ -3,8 +3,8 @@ layout: post
 title: Fleshing out ideas
 ---
 
-During our post-up session we ideated using timed brainstorms. The following ideas came about from my reading, research, observations, experience as a (not very active) member of a 
-community garden plot and thinking about all the barriers and issues around co-ordinated efforts to grow food in an urban 
+During our post-up session Team Sex and the Smart City ideated using timed brainstorms.  My contributions came from reading, research, observations and experience as a (not very active) member of a 
+community garden plot, and from thinking about the barriers and issues around co-ordinated efforts to grow food in an urban 
 community in South East London.
 
 Sketches yet to be uploaded
