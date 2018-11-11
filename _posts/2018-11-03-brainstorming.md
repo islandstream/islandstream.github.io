@@ -20,6 +20,6 @@ Sketches yet to be uploaded
 * Green technicians Retraining programme
 * Tunnel farms
 * PYO supermarkets
-* Modular Hydroponic Kit
+* Modular Hydroponic Kit ![_config.yml]({{ site.baseurl }}/images/hydroponic-orbs.jpg)
 * Urban-farm box scheme
 * Serviced growing units: ’Back to grid’ initiatives where individuals are incentivised to allow their shared spaces to be used for serviced hydroponic systems in return for free food
