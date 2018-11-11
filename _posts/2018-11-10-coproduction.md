@@ -1,6 +1,6 @@
 ---
 layout: 1-col-post
-title: Coproduction, Permaculture and sensing technologies
+title: Coproduction, permaculture and sensing technologies
 ---
 
 Farming and agriculture have always been drivers of technological innovation. It is here we see hybrid solutions of interaction with technology. I would like to explore how crop cultivation in an urban setting might fulfill Rosner's notion of coproduction by means of provocation, rather than presentation of an all singing, all dancing solution.
