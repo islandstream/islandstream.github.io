@@ -1,6 +1,6 @@
 ---
 layout: 1-col-post
-title: Coproduction of Horticulture as an Urban Enterprise
+title: Coproduction: Permaculture and sensing technologies
 ---
 
 Farming and agriculture have always been drivers of technological innovation. It is here we see hybrid solutions of interaction with technology 
