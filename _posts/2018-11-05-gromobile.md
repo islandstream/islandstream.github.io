@@ -6,7 +6,7 @@ title: GroMobile
 Grow mobile was conceived quite early on. We are now iterating on ways to make improve the design to better fulfill the brief.
 
 
-{% include bootstrap-card-text-image.html file="/images/gromobile.jpg" alt="Persona using a GroMobile unit" cardtitle="GroMobile as a fresh food vending machine" cardtext="Average 'time-poor' persona using a GroMobile vending machine. This application is probably the least inspirational so far" %}
+{% include bootstrap-card-text-image.html file="/images/gromobile.jpg" alt="Persona using a GroMobile unit" cardtitle="GroMobile as a fresh food vending machine" cardtext="Average 'time-poor' persona using a GroMobile vending machine" %}
 
 
 * Is this a truly smart solution?
