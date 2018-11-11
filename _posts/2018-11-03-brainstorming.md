@@ -9,8 +9,8 @@ community in South East London.
 
 Sketches yet to be uploaded
 
-* Hydroponic popup
-* Alert service for surplus crops
+* Hydroponic popup ![_config.yml]({{ site.baseurl }}/images/hydroponic-setup.jpg)
+* Alert service for surplus crops ![_config.yml]({{ site.baseurl }}/images/diy-sensor.jpg)
 * Alert system for shopkeepers and restaurants
 * Job creation: Caretakers of hydroponic systems
 * Modular systems including kabata fish pond ![_config.yml]({{ site.baseurl }}/images/fish.jpg)
@@ -19,7 +19,6 @@ Sketches yet to be uploaded
 * Land registry service for finding land or buildings that can be repurposed for vertical farming units
 * Green technicians Retraining programme
 * Tunnel farms
-* Additional ideas:
 * PYO supermarkets
 * Modular Hydroponic Kit
 * Urban-farm box scheme
