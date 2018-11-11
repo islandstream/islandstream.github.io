@@ -1,3 +1,6 @@
+> Ana—your blog is coming on really well; I like the combination of short, reflective posts that include a mix of observations, other practice-based example projects and research insights. You’ve scoped lots of interesting phenomena in the city and lots of possible interactions / interventions. The materiality and atmosphere of the city seem key to your thinking: e.g. light sound, soil. This means you’re including a wide cast of not-always-humans in your interactions, e.g. seeds. 
+** Do keep using the creative methods you’ve learned on the course to generate creative materials that include various media: firstly, to further deepen and extend your observations in one key area of interest, and secondly, as a way to further develop your designs. **
+
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
 # Jekyll Now
