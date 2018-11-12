@@ -3,7 +3,7 @@ layout: post
 title: Audioponics
 ---
 
-Inspired by the ethnographic study Sara Heitlinger did at City Farm I introduce Audioponics: A system of plant cultivation that baths plants and their root system in sound to stimulate growth. 
+Inspired by the ethnographic study Sara Heitlinger did at City Farm, I introduce Audioponics: A system of plant cultivation that bathes plants and their root system in sound to stimulate growth. 
 
 {% include bootstrap-card-text-image.html file="/images/hydroponic-orbs.jpg" alt="Sketch" 
 cardtitle="Hydroponic orbs" cardtext="" %}
