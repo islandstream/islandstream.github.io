@@ -11,9 +11,6 @@ cardtitle="People of the forest" cardtext="" %}
 {% include bootstrap-card-text-image.html file="/images/bike-works.jpg" alt="Photo of bike works" 
 cardtitle="bike-works" cardtext="" %}
 
-{% include bootstrap-card-text-image.html file="/images/bioacoustic-plantbowl.jpg" alt="bioacoustic-plantbowl" 
-cardtitle="bioacoustic plantbowl" cardtext="" %}
-
 {% include bootstrap-card-text-image.html file="/images/brasica" alt="Photo of brasica leaves" 
 cardtitle="brasica leaves" cardtext="" %}
 
