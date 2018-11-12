@@ -50,7 +50,7 @@ cardtitle="Ramshackle solar tech" cardtext="" %}
 {% include bootstrap-card-text-image.html file="/images/sounds-of-bughotel.jpg" alt="Photo of headphones" 
 cardtitle="Sounds of the bug hotel" cardtext="" %}
 
-{% include bootstrap-card-image.html file="/images/poster-transforming-farming.jpg" alt="Photo of chefs"%}
+{% include bootstrap-card-text-image.html file="/images/poster-transforming-farming.jpg" alt="Photo of chefs" cardtitle="" cardtext="'Hyperspectral Cameras see more than the eye can see, detecting early stresses... and providing data for analysis and action'"%}
 {% include bootstrap-card-image.html file="/images/red-chilli.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/roots-at-work.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/shipping-container.jpg" alt="Photo"%}
