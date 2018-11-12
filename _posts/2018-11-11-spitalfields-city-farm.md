@@ -3,7 +3,7 @@ layout: post
 title: Craft and Connected Seeds @ Spitalfields City Farm
 ---
 
-Holding page for images and inspiration from around City Farm. Annotations to follow
+Inspiration from around Spitalfields City Farm
 
 {% include bootstrap-card-text-image.html file="/images/people-of-the-forest.jpg" alt="Photo: people of the forest quote" 
 cardtitle="People of the forest" cardtext="Humans can distinguish a million diffrent shades of green and only a few thousand shades of red. We evolved as people of the forest" %}
