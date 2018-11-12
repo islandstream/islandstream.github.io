@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fleshing out ideas
+title: Group post-up and brainstorming session
 ---
 
 During our post-up session Team Sex and the Smart City ideated using timed brainstorms.  My contributions came from reading, research, observations and experience as a (not very active) member of a 
