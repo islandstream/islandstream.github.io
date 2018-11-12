@@ -41,9 +41,6 @@ cardtitle="Flyer from City Farm" cardtext="" %}
 {% include bootstrap-card-text-image.html file="/images/loom.jpg" alt="Photo of loom" 
 cardtitle="Loom" cardtext="" %}
 
-{% include bootstrap-card-text-image.html file="/images/people-of-the-forest.jpg" alt="People of the forest" 
-cardtitle="People of the forest" cardtext="" %}
-
 {% include bootstrap-card-text-image.html file="/images/poster-farms-not-factories.jpg" alt="Poster" 
 cardtitle="Farms not factories" cardtext="" %}
 
