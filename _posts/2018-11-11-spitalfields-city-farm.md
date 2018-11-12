@@ -58,7 +58,7 @@ cardtitle="Sounds of the bug hotel" cardtext="" %}
 {% include bootstrap-card-image.html file="/images/roots-at-work.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/shipping-container.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/signpost.jpg" alt="Photo"%}
-{% include bootstrap-card-image.html file="/images/soil.jpg" alt="Photo"%}
+{% include bootstrap-card-text-image.html file="/images/soil.jpg" alt="Photo" cardtitle="Loam" cardtext=""%}
 {% include bootstrap-card-image.html file="/images/woolmen-crest.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/yellow-pepper.jpg" alt="Photo"%}
 {% include bootstrap-card-image.html file="/images/yurt-window.jpg" alt="Photo"%}
