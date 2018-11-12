@@ -24,7 +24,7 @@ cardtitle="bughotel-playlist" cardtext="" %}
 cardtitle="bughotel" cardtext="" %}
 
 {% include bootstrap-card-text-image.html file="/images/chefs.jpg" alt="Photo of chefs" 
-cardtitle="chefs" cardtext="" %}
+cardtitle="Outdoor kitchen" cardtext="" %}
 
 {% include bootstrap-card-text-image.html file="/images/city-farm.jpg" alt="Photo of city farm" 
 cardtitle="City - Farm" cardtext="" %}
