@@ -16,3 +16,13 @@ a seed library, a vegetable market and local agricultural products, collective C
 %}
 
 {% include bootstrap-card-text-image.html file="/images/concrete-jungle.png" alt="Image of Concrete Jungle website" cardtitle="Concrete Jungle, Atlanta, Georgia" cardtext="Conscientious scrumping: volunteers collect ripe and abandonded fruit and redistribute to those in need" %}
+
+{% include bootstrap-card-text-image.html file="/images/3d-data.jpg" alt="Image of 2d data visualisation" cardtitle="Seminar: Data Physicalizations and Community Collaboration in Fabrication Spaces" cardtext="Lora Oehlberg. Assistant Professor, Department of Computer Science, University of Calgary Computer Sciences came and spoke about controlled knitting" %}
+
+{% include bootstrap-card-text-image.html file="/images/temperature-scarf.jpg" alt="Image of a temperature scarf" cardtitle="Temperature Scarves" cardtext="Data visualizations of yearly waether patterns expressed through the power of knitting" %}
+
+{% include bootstrap-card-text-image.html file="/images/lwin-weave.png" alt="Image of Lwin Weave" cardtitle="Sculpture in the City" cardtext="Amanda Lwin’s 'A Worldwide Web of Somewheres' explores scupltural cartography in Leadnhall Market" %}
+
+
+
+
