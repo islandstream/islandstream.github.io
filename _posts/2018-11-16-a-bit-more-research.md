@@ -14,3 +14,5 @@ a shared greenhouse for plants and seedlings, equipment for collecting rainwater
 The buildings will include prototypes of organic intensive farming and a range of equipment and know-how covering:
 a seed library, a vegetable market and local agricultural products, collective Café and cooking facility, a collective bread oven" 
 %}
+
+{% include bootstrap-card-text-image.html file="/images/concrete-jungle.png" alt="Image of Concrete Jungle website" cardtitle="Concrete Jungle, Atlanta, Georgia" cardtext="Conscientious scrumping: volunteers collect ripe and abandonded fruit and redistribute to those in need" %}
