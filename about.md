@@ -12,7 +12,7 @@ My work involves travelling around the country chatting to nurses and doctors ab
 ### At school
 I'm taking Creativity in Design where I get to play with sketchbooks and tell myself the Art degree I got was the Best Career Move Ever. It's also given me a kick to get back involved with my Jekyll blog which I will, over the coming weeks, furnish with INM391 related ideas, sketches and annotations while brushing-up on some markdown and scss. 
 
-Personal recent projects incude a reskin of the realjunkfoodproject.com website. 
+Personal recent projects incude a reskin of [realjunkfoodproject.com](https://therealjunkfoodproject.org). 
 
 ### Contact me
 [anaeweller@gmail.com](mailto:anaeweller@gmail.com)
