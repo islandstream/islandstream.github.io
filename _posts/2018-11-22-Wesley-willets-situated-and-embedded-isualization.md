@@ -11,16 +11,16 @@ another into the impact of scale on 3D data visualizations handled by human part
 {% include bootstrap-card-text.html cardtitle="Notes from the seminar" cardtext="WW is interested in crowdsourcing and citizen
 science: visualizations for public engagement and asks, "Is the data at a time/place where I can take effective action on it?"%}
 
-## Situated data visualisations can take many forms including:
+### Situated data visualisations can take many forms including:
 * AR for business and travel reviews; 
 * street level overlays/projections;
 * use in warehouses to create data responsive objects or shelving systems
 
-## Willets is proposing a framework for situated data visualisation
+### Willets is proposing a framework for situated data visualisation
 * Blending of Logic and physical world; 
 * Flow of information from raw data into the data viz pipeline, the physical presentation and the physical referent;
 
-## Types of situated visualisation:
+### Types of situated visualisation:
 * Non-situated (e.g. traditional PC based visualisations)
 * Situated (e.g touchscreens/printed paper)
 * Embedded (tightly integrated subclass of situated)
@@ -30,7 +30,7 @@ alt="Photo of demographic sculpture" cardtitle="2013 Walkable Age Pyramid" cardt
 age and gender over population size built as part of an exhibition around demographics in 2013" 
 href="http://dataphys.org/list/walkable-age-pyramid/" linktext="Walkable Age Pyramid" %}
 
-## Examples
+### Examples
 *A mbient visualization of activity information, based on an analysis of audio data [Activity wallpaper](https://www.semanticscholar.org/paper/Activity-wallpaper%3A-ambient-visualization-of-Skog/18f2b30f79607f6aec139b1ec680ae2e6913ea2d); 
 * Street infographics;
 * Exploring what data means for the people living and working on Tenison Road: [Tenison Road Charts](http://tenisonroad.com/);
