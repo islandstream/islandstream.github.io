@@ -18,4 +18,9 @@ Clay maquettes. We used 3D materials to bring our sketches to life and imagine t
 [Sketching with clay]({{ site.baseurl }}/images/clay-models.jpeg)
 
 
+3D cartography. Sketch of a 3D data viz for a map plotting existing community gardens in London. Data points to include facilities and features such as air quality, produce, livestock, toilets, cafe
+[Sketching with clay]({{ site.baseurl }}/images/map-annotated.png)
+
+
+
 
