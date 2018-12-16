@@ -5,7 +5,7 @@ title: Plot Weave
 
 The DataWeave (named plotweave for the event) is a rudimentary attempt at providing feedback for urban agricultural plots. Urban farms are popular places to visit as educational spaces but how could they adapt to become part of a broader solution? And how would adapting affect them?
 
-![DataWeave (aka PlotWeave)]({{ site.baseurl }}/images/CID-artefacts.jpg)
+![DataWeave]({{ site.baseurl }}/images/CID-artefacts.jpg)
 
 It makes sense that high yield food production should happen close to point of consumption. It’s already happening with vertical farming using hydro or aeroponic systems. But this is being done by big businesses such as Phillips, for smaller businesses such as restaurants. These technologies haven’t yet found a place in urban gardens and spaces because they serve very different purposes however we learnt that there is a place for tech in farms, but in the nooks & crannies. It is not a cure-all as with anything, but by understanding more about local history, community engagement and what it’s like to manage an urban farm we came away with a set of methods that opened us to a richer understanding of what a resource like Spitalfields Farm means to locals. 
 
