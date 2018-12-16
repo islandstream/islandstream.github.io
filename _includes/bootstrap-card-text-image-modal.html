@@ -3,8 +3,14 @@
   <div class="card-body">
     <h5 class="card-title">{{ include.cardtitle }}</h5>
     <p class="card-text">{{ include.cardtext }}</p>
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="{{ include.data-target }}">
+    <button type="button" id="thisButton" class="btn btn-primary" data-toggle="modal" data-target="{{ include.data-target }}">
       Annotation
     </button>
   </div>
 </div>
+<script>
+  $('#{{ include.data-target }}').on('shown.bs.modal', function () {
+  $('#{{ include.thisButton }}').trigger('focus')
+  })
+</script>
+
