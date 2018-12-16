@@ -19,4 +19,4 @@ Starting to think about ways data can inhabit and complement existing community 
 
 {% include bootstrap-card-text-image.html file="" alt="" cardtitle="Map existing gardens to a 3d data viz" cardtext="London Map of Community Gardens. Data points to include facilities and features such as air quality, produce, livestock, toilets, cafe" %}
 
-{% include modal.html file="/images/moss.jpeg" alt="Image of clay sketches" modal-title="Sketching with clay" modal-id="clay-model-annotation" %}
+{% include modal.html file="/images/clay1.jpeg" alt="Image of clay sketches" modal-title="Sketching with clay" modal-id="clay-model-annotation" %}
