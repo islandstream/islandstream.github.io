@@ -19,3 +19,6 @@ Starting to think about ways data can inhabit and complement existing community 
 
 {% include bootstrap-card-text-image-modal.html file="/images/3D-map.jpeg" alt="Sketch" cardtitle="Sketch of a 3D data viz for a map plotting existing community gardens in London" cardtext="London Map of Community Gardens. Data points to include facilities and features such as air quality, produce, livestock, toilets, cafe"  data-target="#map-model-annotation" thisButton="mapModelTrigger" %}
 {% include modal.html file="/images/3D-map-annotated.png" alt="Annotated sketch" modal-title="3D cartography" modal-id="map-model-annotation" %}
+
+{% include bootstrap-card-text-image-modal.html file="" alt="Gallery" cardtitle="Tech in urban farms" cardtext="" thisButton="farmTechModalTrigger" %}
+{% include modal.html file="/images/farm-tech.png" alt="Annotated photos" modal-title="Existing tech in Spitalfields City Farm" modal-id="farm-tech-annotation" %}
