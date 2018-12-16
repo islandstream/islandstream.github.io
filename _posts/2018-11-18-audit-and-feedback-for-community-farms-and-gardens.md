@@ -25,6 +25,12 @@ Existing tech in Spitalfields City Farm
 [Sketching with clay]({{ site.baseurl }}/images/farm-tech.png)
 
 
+Audio data and feedback. Sketches of objects conveying data through sound.
+[Sketching with clay]({{ site.baseurl }}/images/audio-sketch.png)
+
+
+
+
 
 
 
