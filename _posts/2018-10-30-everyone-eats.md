@@ -14,6 +14,8 @@ What if we started to imagine introducing technology to a pre-industrial supply 
 
 How might the players in a devolved system be categorised?
 
+![_config.yml]({{ site.baseurl }}/images/urban-farmers-pyramid.png)
+
 - People who have no interest in growing their own food (most likely)
 
 - People who want to grow their own food but can’t (next largest group of people?)
