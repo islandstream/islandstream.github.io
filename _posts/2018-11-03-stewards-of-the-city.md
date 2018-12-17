@@ -31,8 +31,10 @@ HCI designers are trying re-appropriate the management of these resources…  to
 - ‘City of care’ Manual labour and ‘slow-care’ being a benefit. Harnesses the expertise of the migrant communities
 - **Seed sovereignty…** taking back control over multinational companies
 - >Harroway - staying with the trouble/ the twin illusions of techno progress
-- Technical skills and data literacy required
+    - Fragile DIY sensors 
+    - Technical skills and data literacy required
     - **Underuse of data / dashboards implemented for connected seeds** 
 - www.connectedseed.org/connected-seeds-film 
+![_config.yml]({{ site.baseurl }}/images/diy-sensor.jpg) 
 
 **There’s a need for HCI to identify where the struggle is already taking place and design solutions to overcome it.**
