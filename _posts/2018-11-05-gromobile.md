@@ -18,8 +18,8 @@ GroMobile was conceived quite early on. We are now iterating on ways to make imp
 
 {% include bootstrap-card-text-image.html file="/images/components.jpg" alt="Sketch of the DIY component parts of a hydroponic set up" cardtitle="DIY component parts of a hydroponic set up" cardtext="I wanted to explore the practical implications and components of a basic hydroponic kit. The resevoir would be heavy and would need a supply of fresh clean water" %}
 
-**Grow Towers**. Rotating hydroponic planters in parks near access to food preperation areas and seating for communal meals. 
-![_config.yml]({{ site.baseurl }}/images/grow-tower-sketch.png) [Enlarge]({{ site.baseurl }}/images/grow-towers-and-people.png)
+**Grow Towers**. Rotating hydroponic planters in parks near access to food preperation areas and seating for communal meals. [Annotated in the park]({{ site.baseurl }}/images/grow-towers-and-people.png) 
+![_config.yml]({{ site.baseurl }}/images/grow-tower-sketch.png) 
 
 **Clay maquettes**. We used 3D materials to bring our sketches to life and imagine their 360 form. [Annotations]({{ site.baseurl }}/images/clay1.png)
 ![_config.yml]({{ site.baseurl }}/images/clay-towers.jpg) 
