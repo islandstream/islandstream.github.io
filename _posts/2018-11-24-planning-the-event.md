@@ -12,6 +12,9 @@ Looking at the work of Bauhaus visual artist Anni Albers at the recent exhibitio
 Situating our ideas amoung projects that have already been brought to life. [Enlarge]({{ site.baseurl }}/images/data-collection.png)
 ![_config.yml]({{ site.baseurl }}/images/data-collection.png)
 
+Knowing what the parts of the loom were called helped us understand the tool and helped us engage with visitors. 
+![_config.yml]({{ site.baseurl }}/images/loom-diagram.png)
+
 
 Using the a 3D printer to make prototypes, I learnt how to source and manipulate 3D plans using Cura and Ultimaker2. [Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 ![_config.yml]({{ site.baseurl }}/images/print3d.jpg)
