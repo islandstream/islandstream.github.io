@@ -5,6 +5,9 @@ title: Sketching
 
 Starting to think about sensors in the city, especially in terms of pollution. How can we make life in the city safer, cleaner and more human? As 'Living Sensors' we filter much of what we percieve to protect ourselves from information overload but as environmental sensors, absorbing and reacting to pollution such as sound, light and particulates, we have zero control. How can we better protect ourselves as we move about the crowded city?   
 
+Sketch for Reimagining the smart city
+![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png "Please browser back button to escape")
+
 {% include bootstrap-card-text-image-link.html file="/images/tunnel.jpg"  alt="Old tunnel" cardtitle="Cycle Tunnel" cardtext="The campaign to make Englands longest cycle tunnel" href="https://www.theguardian.com/uk-news/2018/jan/01/new-push-to-make-englands-longest-cycle-tunnel-a-reality" linktext="Yorkshire cycle tunnel planned" %}
 
 {% include bootstrap-card-text-image.html file="/images/city-sketch.jpg" alt="City sketch" cardtitle="Imaginary city scape" cardtext="Piled up blocks, shapes and spires to create a man-made skyline" %}
