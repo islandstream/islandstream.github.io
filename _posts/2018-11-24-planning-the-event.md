@@ -9,6 +9,10 @@ Looking at the work of Bauhaus visual artist Anni Albers at the recent exhibitio
 ![_config.yml]({{ site.baseurl }}/images/anni-albers1.jpg)
 [Annotations]({{ site.baseurl }}/images/albers-annotation.png "Annotation")
 
+Situating our ideas amoung projects that have already been brought to life. [Enlarge]({{ site.baseurl }}/images/data-collection.png)
+![_config.yml]({{ site.baseurl }}/images/data-collection.png)
+
+
 Using the a 3D printer to make prototypes, I learnt how to source and manipulate 3D plans using Cura and Ultimaker2. [Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 ![_config.yml]({{ site.baseurl }}/images/print3d.jpg)
 ![_config.yml]({{ site.baseurl }}/images/elbow-joints.jpg)
