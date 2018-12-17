@@ -15,6 +15,8 @@ Situating our ideas amoung projects that have already been brought to life. [Enl
 Knowing what the parts of the loom were called helped us understand the tool and helped us engage with visitors. 
 ![_config.yml]({{ site.baseurl }}/images/loom-diagram.png)
 
+Sketching the weave helped with hand-eye coordination on the day and helped get to grips with the binary nature of the process. 
+![_config.yml]({{ site.baseurl }}/images/weave-sketch.jpeg)
 
 Using the a 3D printer to make prototypes, I learnt how to source and manipulate 3D plans using Cura and Ultimaker2. [Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 ![_config.yml]({{ site.baseurl }}/images/print3d.jpg)
@@ -32,6 +34,7 @@ We used colour theory to code the stratified visitor data by using 1:1 warp/weft
 
 To mock up our 'future vision' I code-scraped a page of the gov.uk website using node and hosted it on github pages inorder to generate a QR code from an online generator, ahead of the event.
 ![_config.yml]({{ site.baseurl }}/images/govuk-qr.jpeg)
+
 
 
 
