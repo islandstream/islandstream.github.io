@@ -8,14 +8,6 @@ Starting to think about ways data can inhabit and complement existing community 
 ![_config.yml]({{ site.baseurl }}/images/gromobile-interactive.png)
 [Annotation]({{ site.baseurl }}/images/gromobile-interactive.png)
 
-**Interactive Plant Technology** by Disney Research. Using a plant as a theramin.
-[Botanicus Interacticus](https://www.youtube.com/watch?v=EcRSKEIucjk)
-
-Living and Robotic **Plants as Interactive Displays**.
-![_config.yml]({{ site.baseurl }}/images/infotropism.png) ![_config.yml]({{ site.baseurl }}/images/robotic-plant-sensor.png "Robotic Plant Sensor")
-[Infotropism article](http://www.cs.cmu.edu/~akhurst/publications/holstius04-infotropism.pdf)
-
-
 **Moss as a bio indicator to pollution** 
 ![_config.yml]({{ site.baseurl }}/images/moss.jpeg)
 
