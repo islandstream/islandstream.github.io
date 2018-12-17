@@ -5,6 +5,8 @@ title: Stewards of the city
 
 Notes from Sara Heitlinger: What Else Could a Sustainable Smart City Be?
 
+![_config.yml]({{ site.baseurl }}/images/connected-seeds.jpg.png) 
+
 Who has access to proprietary spaces?
 Going beyond human-centred design
 Neo liberal smart city. Smart cities have intensified the reach of neo-liberilsation of devices and data
