@@ -10,3 +10,6 @@ Sunday, 2 Dec 2018. 10-4pm
 
 **"Net Promoter Score"** Visitors were asked to weave their responses on the Net Promoter Score device (aka printed hand loom).  
 ![_config.yml]({{ site.baseurl }}/images/visitors-weaving-nps.png "Visitors weaving NPS")
+
+**"Net Promoter Score"** Visitors were asked to weave their responses on the Net Promoter Score device (aka printed hand loom).  
+![_config.yml]({{ site.baseurl }}/images/visitors-weaving-nps.png "Visitors weaving NPS")
