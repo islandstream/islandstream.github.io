@@ -27,6 +27,9 @@ We used colour theory to code the stratified visitor data by using 1:1 warp/weft
 ![_config.yml]({{ site.baseurl }}/images/coding.png)
 [Annotations]({{ site.baseurl }}/images/coding.png)
 
+To mock up our 'future vision' I code-scraped a page of the gov.uk website using node and hosted it on github pages inorder to generate a QR code from an online generator, ahead of the event.
+![_config.yml]({{ site.baseurl }}/images/govuk-qr.jpeg)
+
 
 
 
