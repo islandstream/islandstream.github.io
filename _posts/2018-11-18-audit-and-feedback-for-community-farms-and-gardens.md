@@ -22,10 +22,6 @@ In Lara Houstens talk on Citizen Sense she describes how sensors, tied to trees 
 Gather ideas for 'soft sensor' / qualitative data points. I'm interested in investigating the 'soft' side of sensors. Living sensors, interpretive and qualitative indicators over quantitative data.
 
 
-**Clay maquettes**. We used 3D materials to bring our sketches to life and imagine their 360 form. ![_config.yml]({{ site.baseurl }}/images/clay-towers.jpg) 
-[Annotations]({{ site.baseurl }}/images/clay1.png)
-
-
 **3D cartography**. Sketch of a 3D data viz for a map plotting existing community gardens in London. Data points to include facilities and features such as air quality, produce, livestock, toilets, cafe.
 ![_config.yml]({{ site.baseurl }}/images/map3d.png)
 [Annotated]({{ site.baseurl }}/images/map-annotated.png)
