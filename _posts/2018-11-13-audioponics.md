@@ -13,12 +13,5 @@ cardtitle="bioacoustic plantbowl" cardtext="Sound / bio-acoustics could also be 
 
 This could be looked as a **craft-based coproduction with a possibility of layering on a camera for hyper-spectral imaging to communicate plant health, to enable communication of visual and auditory states of being**. 
 
-**Interactive Plant Technology** by Disney Research. Using a plant as a theramin. [Botanicus Interacticus](https://www.youtube.com/watch?v=EcRSKEIucjk)
-![_config.yml]({{ site.baseurl }}/images/botanicus-interacticus.png)
-
-Living and Robotic **Plants as Interactive Displays**.
-![_config.yml]({{ site.baseurl }}/images/infotropism.png) ![_config.yml]({{ site.baseurl }}/images/robotic-plant-sensor.png "Robotic Plant Sensor")
-[Infotropism article](http://www.cs.cmu.edu/~akhurst/publications/holstius04-infotropism.pdf)
-
 
 
