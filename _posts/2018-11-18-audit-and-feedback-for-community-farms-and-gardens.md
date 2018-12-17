@@ -30,12 +30,13 @@ Clay maquettes. We used 3D materials to bring our sketches to life and imagine t
 ![_config.yml]({{ site.baseurl }}/images/map-annotated.png)
 
 Existing tech in Spitalfields City Farm.![_config.yml]({{ site.baseurl }}/images/farm-tech.png)
+[Enlarge]({{ site.baseurl }}/images/farm-tech.png)
 
 
-Audio data and feedback. Sketches of objects conveying data through sound. ![_config.yml]({{ site.baseurl }}/images/audio-sketch.png)
+Audio data and feedback. Sketches of objects conveying data through sound. [Enlarge]({{ site.baseurl }}/images/audio-sketches.png)
+![_config.yml]({{ site.baseurl }}/images/audio-sketches.png)
 
-Audio data and feedback. Sketches of objects conveying data through sound.
-![_config.yml]({{ site.baseurl }}/images/data-collection.png)
+
 
 
 
