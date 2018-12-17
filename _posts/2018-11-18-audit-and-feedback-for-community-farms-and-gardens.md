@@ -16,8 +16,11 @@ Living and Robotic **Plants as Interactive Displays**.
 [Infotropism article](http://www.cs.cmu.edu/~akhurst/publications/holstius04-infotropism.pdf)
 
 
-In Lara Houstens talk on Citizen Sense she describes how sensors, tied to trees in an urban community garden in Deptford, revealed surprising results. Despite being situated next to a very busy road, the physical characteristics of the walled garden (having a physical barrier on the polluted side) and it's position (next to a school) can mitigate against exposeure and dramatically reduce the presence of airbourne particulates in these locations, and that **garden spaces act as a green lung.**  How can the natural sensing properties of plants be leveraged in the city and by smart tech to show us where the air is cleaner?
+**Moss as a bio indicator to pollution** 
 ![_config.yml]({{ site.baseurl }}/images/moss.jpeg)
+
+In Lara Houstens talk on Citizen Sense she describes how sensors, tied to trees in an urban community garden in Deptford, revealed surprising results. Despite being situated next to a very busy road, the physical characteristics of the walled garden (having a physical barrier on the polluted side) and it's position (next to a school) can mitigate against exposeure and dramatically reduce the presence of airbourne particulates in these locations, and that **garden spaces act as a green lung.**  How can the natural sensing properties of plants be leveraged in the city and by smart tech to show us where the air is cleaner?
+
 
 Gather ideas for 'soft sensor' / qualitative data points. I'm interested in investigating the 'soft' side of sensors. Living sensors, interpretive and qualitative indicators over quantitative data.
 
