@@ -330,7 +330,7 @@ footer {
     border-top-left-radius: calc(.25rem - 1px);
     border-top-right-radius: calc(.25rem - 1px);
 }
-.post:visited{
+.post h1 a:visited{
 	color: grey
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
