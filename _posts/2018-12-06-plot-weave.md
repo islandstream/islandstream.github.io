@@ -12,9 +12,9 @@ It makes sense that high yield food production should happen close to point of c
 
 Danielle Albers Szafir noted recently in IX magazine that **flashy visualisations are not always optimized to help people see what matters.** Our artefact is of questionable statistical use. It is, by nature woolly. Szafirs plea is for the data scientist or designer to honor clarity and truth through well designed visualisations, however it is also relevant to our tapestry. It’s rough, raw, unpolished and slow to render. What matters in our data physicalisation is what was learned in the process, the fabric created, the people, the heritage of the crafts and the collective experience and skill of the communities that use them, and not excluding marginalised or technophobic folk.
 
-**Mockup of Gov.uk web** Imagining a world where Sense And The Smart Cities unique auditing techniques are used as part of a GLA initiative to ramp up food production in the capital, to address global warming and provide jobs to locals.
+**Mockup of Gov.uk web** Imagining a world where Sense And The Smart Cities unique auditing techniques are used as part of a GLA initiative to ramp up food production in the capital, to address global warming and provide jobs to locals. [Annotations]({{ site.baseurl }}/images/govuk.png "Enlarge")
  ![_config.yml]({{ site.baseurl }}/images/govuk.png "Annotation")
- [Annotations]({{ site.baseurl }}/images/govuk.png "Annotation")
+
 
 > By creating an object that people can interact with in it’s making and it’s telling, we hope to find ways that HCI can enrich conversations about community and sustainability in urban community farms and gardens. 
 
