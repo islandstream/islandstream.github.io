@@ -16,7 +16,7 @@ Knowing what the parts of the loom were called helped us understand the tool and
 ![_config.yml]({{ site.baseurl }}/images/loom-diagram.png)
 
 Sketching the weave helped with hand-eye coordination on the day and helped get to grips with the binary nature of the process. 
-![_config.yml]({{ site.baseurl }}/images/weave-sketch.jpeg)
+![_config.yml]({{ site.baseurl }}/images/weave-sketch.jpg)
 
 Using the a 3D printer to make prototypes, I learnt how to source and manipulate 3D plans using Cura and Ultimaker2. [Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 ![_config.yml]({{ site.baseurl }}/images/print3d.jpg)
