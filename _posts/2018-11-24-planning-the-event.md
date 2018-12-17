@@ -19,7 +19,7 @@ Using the a 3D printer to make prototypes, I learnt how to source and manipulate
 ![_config.yml]({{ site.baseurl }}/images/print3d-annotate.png)
 [Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 
-We used colour theory to coded the stratified visitor data, over a more complex grid pattern. We achieved this using 1:1 warp/weft pattern for simplicity and to improve the readability of the weave.  
+We used colour theory to code the stratified visitor data by using 1:1 warp/weft pattern. For simplicity and to improve the readability of the weave we chose this over a more complex grid pattern.  
 ![_config.yml]({{ site.baseurl }}/images/coding.png)
 [Annotations]({{ site.baseurl }}/images/coding.png)
 
