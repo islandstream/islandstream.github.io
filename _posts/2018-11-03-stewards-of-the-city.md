@@ -5,12 +5,13 @@ title: Stewards of the city
 
 Notes from Sara Heitlinger: What Else Could a Sustainable Smart City Be?
 
-![_config.yml]({{ site.baseurl }}/images/connected-seeds.jpg.png) 
+![_config.yml]({{ site.baseurl }}/images/connected-seeds.jpg) 
 
 Who has access to proprietary spaces?
 Going beyond human-centred design
 Neo liberal smart city. Smart cities have intensified the reach of neo-liberilsation of devices and data
-HCI designers are trying re-appropriate the management of these resources…  to empower users to be stewards of their data and community initiatives, rather than passively consume
+HCI designers are trying re-appropriate the management of these resources…  to empower users to be stewards of their data and community initiatives, rather than passively consume.
+![_config.yml]({{ site.baseurl }}/images/connected-seeds.jpg) 
 - Di salvo
 - dualist thought: current systems are human centred, independent of the web of life
 - ‘Ecocide’
@@ -27,10 +28,11 @@ HCI designers are trying re-appropriate the management of these resources…  to
     - Interactive web page of data from each garden
     - Connected Seeds Library at spitalfields farm
     - ‘The rights to the smart city are enmeshed in the marginalised other’
-- >Harroway - staying with the trouble/ the twin illusions of techno progress
 - ‘City of care’ Manual labour and ‘slow-care’ being a benefit. Harnesses the expertise of the migrant communities
-- Seed sovereignty… taking back control over multinational companies
+- **Seed sovereignty…** taking back control over multinational companies
+- >Harroway - staying with the trouble/ the twin illusions of techno progress
 - Technical skills and data literacy required
+    - **Underuse of data / dashboards implemented for connected seeds** 
 - www.connectedseed.org/connected-seeds-film 
 
 **There’s a need for HCI to identify where the struggle is already taking place and design solutions to overcome it.**
