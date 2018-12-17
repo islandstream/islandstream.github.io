@@ -10,8 +10,8 @@ Looking at the work of Bauhaus visual artist Anni Albers at the recent exhibitio
 [Annotations]({{ site.baseurl }}/images/gromobile-interactive.png "Annotation")
 
 Using the a 3D printer to make prototypes, I learnt how to source and manipulate 3D plans using Cura and Ultimaker2. 
-![_config.yml]({{ site.baseurl }}/images/3D-print-annotate.png)
-[Annotations]({{ site.baseurl }}/images/3D-print-annotate.png)
+![_config.yml]({{ site.baseurl }}/images/print3d-annotate.png)
+[Annotations]({{ site.baseurl }}/images/print3d-annotate.png)
 
 
 
