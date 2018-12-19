@@ -11,7 +11,7 @@ Who has access to proprietary spaces?
 Going beyond human-centred design
 Neo liberal smart city. Smart cities have intensified the reach of neo-liberilsation of devices and data
 HCI designers are trying re-appropriate the management of these resources…  to empower users to be stewards of their data and community initiatives, rather than passively consume.
-![_config.yml]({{ site.baseurl }}/images/connected-seeds.jpg) 
+![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png) 
 - Di salvo
 - dualist thought: current systems are human centred, independent of the web of life
 - ‘Ecocide’
