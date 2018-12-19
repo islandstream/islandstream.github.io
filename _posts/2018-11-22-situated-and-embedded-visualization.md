@@ -23,7 +23,7 @@ science: visualizations for public engagement and asks, <strong>Is the data at a
 * Situated (e.g touchscreens/printed paper)
 * Embedded (tightly integrated subclass of situated)
 
-{% include bootstrap-card-text-image-link.html file="{{ site.baseurl }}/images/Demographic_sculpture_with_visitors-large.jpg" 
+{% include bootstrap-card-text-image-link.html file="/images/Demographic_sculpture_with_visitors-large.jpg" 
 alt="Photo of demographic sculpture" cardtitle="2013 Walkable Age Pyramid" cardtext="A sculpture showing the changes in 
 age and gender over population size built as part of an exhibition around demographics in 2013" 
 href="http://dataphys.org/list/walkable-age-pyramid/" linktext="Walkable Age Pyramid" %}
