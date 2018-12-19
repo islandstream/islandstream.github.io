@@ -7,10 +7,8 @@ During our post-up session Team Sex and the Smart City ideated using timed brain
 community garden plot, and from thinking about the barriers and issues around co-ordinated efforts to grow food in an urban 
 community in South East London.
 
-Sketches yet to be uploaded
-
 * Hydroponic popup ![_config.yml]({{ site.baseurl }}/images/hydroponic-setup.jpg)
-* Alert service for surplus crops ![_config.yml]({{ site.baseurl }}/images/diy-sensor.jpg)
+* Alert service for surplus crops
 * Alert system for shopkeepers and restaurants
 * Job creation: Caretakers of hydroponic systems
 * Modular systems including kabata fish pond ![_config.yml]({{ site.baseurl }}/images/fish.jpg)
