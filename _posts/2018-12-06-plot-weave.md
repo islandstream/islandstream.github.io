@@ -16,7 +16,7 @@ Danielle Albers Szafir noted recently in IX magazine that **flashy visualisation
 
 > By creating an object that people can interact with in it’s making and it’s telling, we hope to find ways that HCI can enrich conversations about community and sustainability in urban community farms and gardens. 
 
- ![_config.yml]({{ site.baseurl }}/images/dataWeaveScan.png) 
- [Annotations]({{ site.baseurl }}/images/craft-data-vis.png "Annotation. Please use browser back button to escape")
+ ![_config.yml]({{ site.baseurl }}/images/craft-data-vis.png) 
+ [Enlarge]({{ site.baseurl }}/images/craft-data-vis.png "Annotation. Please use browser back button to escape")
 
 
