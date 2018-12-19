@@ -7,7 +7,8 @@ Planning, logisitics, and building prototypes.
 
 Looking at the work of Bauhaus visual artist Anni Albers at the recent exhibition in the Tate Modern, helped the group to understand how to plan a woven design.
 ![_config.yml]({{ site.baseurl }}/images/anni-albers1.jpg)
-[Annotations]({{ site.baseurl }}/images/albers-annotation.png "Annotation")
+![_config.yml]({{ site.baseurl }}/images/albers-annotation.png)
+[Enlarge]({{ site.baseurl }}/images/albers-annotation.png "Annotation")
 
 Situating our ideas amoung projects that have already been brought to life. [Enlarge]({{ site.baseurl }}/images/data-collection.png)
 ![_config.yml]({{ site.baseurl }}/images/data-collection.png)
