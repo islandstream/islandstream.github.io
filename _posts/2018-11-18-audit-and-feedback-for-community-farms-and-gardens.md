@@ -25,7 +25,7 @@ In Lara Houstens talk on Citizen Sense she describes how sensors, tied to trees 
 Audio data and feedback. **Sketches of objects designed to convey data through sound**. [Enlarge]({{ site.baseurl }}/images/audio-sketches.png)
 ![_config.yml]({{ site.baseurl }}/images/audio-sketches.png)
 
-The 'punch-card' system on mechanised looms from the 1800's inspired early systems record keeping by IBM and used extensively by industry, government and the war machine, ultimately advancing the mass genocide wrought by Hitlers and the Nazis.  
+The 'punch-card' system on mechanised looms from the 1800's inspired early systems record keeping by IBM. It was used extensively by industry, government and the war machine, ultimately advancing the mass genocide wrought by Hitler and the Nazis.  
 
 
 
