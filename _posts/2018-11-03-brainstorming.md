@@ -1,5 +1,5 @@
 ---
-layout: 1-col-post
+layout: post
 title: Group post-up and brainstorming session
 ---
 
